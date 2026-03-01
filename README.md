@@ -22,7 +22,7 @@ This project demonstrates the following XML concepts:
 - 📊 Defining an XML Schema (`.xsd`) to enforce data constraints and types.  
 - ⚠️ Testing XML validation by comparing valid and invalid XML instances against the schema.  
 
-These skills are essential for any work involving structured data exchange, configuration files, or data validation in modern software systems. :contentReference[oaicite:2]{index=2}
+These skills are essential for any work involving structured data exchange, configuration files, or data validation in modern software systems. 
 
 ---
 
